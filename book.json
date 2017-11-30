@@ -1,0 +1,51 @@
+{
+    "title":"Salt 新手入门与精通",
+    "author": "octowahle",
+    "theme-default": {
+      "showLevel": true
+    },
+    "links":{
+      "sidebar":{
+        "Aloha Mr.Tang":"https://tangx.in"
+      }
+    },
+    "plugins": [
+      "disqus",
+      "sharing",
+      "sitemap",
+      "github",
+      "codesnippet",
+      "splitter",
+      "page-toc-button",
+      "editlink",
+      "back-to-top-button",
+      "-lunr", "-search", "search-plus",
+      "github-buttons@2.1.0",
+      "theme-default"
+    ],
+    "pluginsConfig": {
+      "theme-default": {
+          "showLevel": true
+      },
+      "disqus": {
+        "shortName": "tangx"
+      },
+      "sitemap": {
+        "hostname": "https://salt.octowhale.com/"
+      },
+      "github-buttons": {
+        "repo": "octowhale/gitbooks-saltstack",
+        "types": [
+          "star"
+        ],
+        "size": "small"
+      },
+      "github": {
+        "url": "https://github.com/octowhale/gitbooks-saltstack"
+      },
+      "editlink": {
+          "base": "https://github.com/octowhale/gitbooks-saltstack/blob/master/",
+          "label": "编辑本页"
+      }
+    }
+  }
