@@ -10,7 +10,6 @@
       }
     },
     "plugins": [
-      "disqus",
       "sharing",
       "sitemap",
       "github",
@@ -26,9 +25,6 @@
     "pluginsConfig": {
       "theme-default": {
           "showLevel": true
-      },
-      "disqus": {
-        "shortName": "tangx"
       },
       "sitemap": {
         "hostname": "https://salt.octowhale.com/"

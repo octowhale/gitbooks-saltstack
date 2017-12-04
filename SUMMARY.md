@@ -11,7 +11,10 @@
 + 变量
   + [grain](/chapter02/grain.md)
   + [pillar](/chapter02/pillar.md)
-
++ [主机和组](/chapter02/hosts.md)
+  + [主机](/chapter02/hosts.md)
+  + [compound](/chapter02/hosts.md#compound)
+  + [组](/chapter02/hosts.md#nodegroup)
 # 排错
 
 + [Top file or master_tops data matches found](/chapter09/Top-file-or-master_tops-data-matches-found.md)
